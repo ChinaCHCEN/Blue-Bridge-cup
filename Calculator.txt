@@ -1,3 +1,5 @@
+// java实现简易计算器
+
 package com.shiyanlou.calculator;
 
 import java.awt.BorderLayout;
